@@ -1,0 +1,33 @@
+body{
+    text-align: center;    
+    margin-left: 1px;
+    margin-right: 1px;
+}
+#top_container{
+    margin-top: 100px;
+    background-color: #cff1ef;
+    position: relative;
+}
+#ani_cld{
+    height: 15%;
+    width:10%;
+    position: absolute;
+    bottom: 95%;
+    left: 25%;
+}
+#cld{
+    height: 10%;
+    width:12%;
+    position: absolute;
+    top: 40%;
+    left: 12%;
+}
+
+#rkt{
+    height: 20%;
+    width:10%;
+    position: absolute;
+    top: 25%;
+    right: 12%;
+
+}
